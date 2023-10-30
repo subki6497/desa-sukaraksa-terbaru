@@ -32,10 +32,11 @@ import Sidebar from "../components/Sidebar.vue";
           4. Peduli terhadap kepentingan masyarakat dan lingkungan;
         </li>
         <li>
-          5. Membina dan memantapkankehidupan gotong royongsebagai basis dan
-          modal dasar pembangunan desa, yang pada hakikatnyajuga merupakan
+          5. Membina dan memantapkan kehidupan gotong royong sebagai basis dan
+          modal dasar pembangunan desa, yang pada hakikatnya juga merupakan
           karakter dasar dari masyarakat desa dan juga bangsa Indonesia.
         </li>
+        <ul>
        
     </div>
   </main>
