@@ -37,6 +37,11 @@ import Sidebar from "../components/Sidebar.vue";
           karakter dasar dari masyarakat desa dan juga bangsa Indonesia.
         </li>
       </ul>
+       </p>
+       <p class="text-lg font-semibold">Misi</p>
+      <ul>
+
+      
        
     </div>
   </main>
