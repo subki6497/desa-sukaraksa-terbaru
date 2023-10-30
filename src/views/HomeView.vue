@@ -36,11 +36,6 @@ import Sidebar from "../components/Sidebar.vue";
           modal dasar pembangunan desa, yang pada hakikatnyajuga merupakan
           karakter dasar dari masyarakat desa dan juga bangsa Indonesia.
         </li>
-      </ul>
-       <p class="text-lg font-semibold">Misi</p>
-      <ul>
-
-      
        
     </div>
   </main>
