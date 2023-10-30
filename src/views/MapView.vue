@@ -101,7 +101,7 @@ export default {
     async loadSomeGeoJson() {
       const nextIndex = this.layerData.length;
 
-      const response = await fetch("/batas-dusun-geojasen.json");
+      const response = await fetch("/batas-rw-geojason.json");
       const data = await response.json();
 
       console.log(data);
