@@ -35,6 +35,7 @@ import Sidebar from "../components/Sidebar.vue";
           5. Membina dan memantapkan kehidupan gotong royong sebagai basis dan
           modal dasar pembangunan desa, yang pada hakikatnya juga merupakan
           karakter dasar dari masyarakat desa dan juga bangsa Indonesia.
+          karakter dasar dari masyarakat desa dan juga bangsa Indonesia
         </li>
         <ul>
        
