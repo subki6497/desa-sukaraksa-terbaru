@@ -101,7 +101,7 @@ export default {
     async loadSomeGeoJson() {
       const nextIndex = this.layerData.length;
 
-      const response = await fetch("/ds_nyule.geojson");
+      const response = await fetch("/desa-sukaraksa-geojasen");
       const data = await response.json();
 
       console.log(data);
