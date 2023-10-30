@@ -39,6 +39,8 @@ import Sidebar from "../components/Sidebar.vue";
       </ul>
        <div class="flex-1 p-10">
       <p class="text-3xl font-semibold">Visi & Misi Desa Sukaraksa</p>
+        </li>
+        <li>
     </div>
   </main>
 </template>
