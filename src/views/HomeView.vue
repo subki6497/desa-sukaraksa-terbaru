@@ -37,7 +37,8 @@ import Sidebar from "../components/Sidebar.vue";
           karakter dasar dari masyarakat desa dan juga bangsa Indonesia.
         </li>
       </ul>
-      <div class="text-lg font-semibold">Grafik Data Kependudukan</p>
+       <div class="flex-1 p-10">
+      <p class="text-3xl font-semibold">Visi & Misi Desa Sukaraksa</p>
     </div>
   </main>
 </template>
