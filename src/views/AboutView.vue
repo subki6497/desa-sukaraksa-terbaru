@@ -12,6 +12,8 @@ import Sidebar from "../components/Sidebar.vue";
     <div class="flex-1 p-10">
       <p class="text-3xl font-semibold my-4">Struktur Desa</p>
       <img src="@/assets/struktur-ds-sukaraksa-new.jpeg" alt="" />
+      <p class="text-3xl font-semibold my-4">Data Kependudukan Desa</p>
+      <img src="@/assets/Data-kependudukan-sukaraksa.jpg.jpeg" alt="" />
     </div>
   </main>
 </template>
