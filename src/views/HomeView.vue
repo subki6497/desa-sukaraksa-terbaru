@@ -37,6 +37,17 @@ import Sidebar from "../components/Sidebar.vue";
           karakter dasar dari masyarakat desa dan juga bangsa Indonesia.
         </li>
         </ul>
+      <template>
+  <Header />
+  <Banner />
+  <main class="flex">
+    <Sidebar />
+    <div class="flex-1 p-10">
+      <p class="text-3xl font-semibold my-4">Data Grafik Kependudukan</p>
+      <img src="@/assets/Data-kependudukan-sukaraksa.jpg.jpeg" alt="" />
+    </div>
+  </main>
+</template>
         
     </div>
   </main>
