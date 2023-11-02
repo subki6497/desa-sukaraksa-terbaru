@@ -37,6 +37,12 @@ import Sidebar from "../components/Sidebar.vue";
           karakter dasar dari masyarakat desa dan juga bangsa Indonesia.
         </li>
         </ul>
+      <main class="flex">
+    <Sidebar />
+      <div class="flex-1 p-10">
+      <p class="text-3xl font-semibold my-4">GAMBARAN UMUM DESA SUKAMAJU</p>
+      <img src="@/assets/VISI_MISI.jpg" alt="" />
+        <img src="@/assets/DATA_SUKAMAJU.jpg" alt="" />
         
     </div>
   </main>
